@@ -1,5 +1,5 @@
 <?php 
-$public ="https://www.example.com/";
+$public ="https://vladimiralvarez.github.io/Nix/";
 $local = "https://localhost/nix/";
 
 $ruta = $local;
